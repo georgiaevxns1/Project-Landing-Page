@@ -1,1 +1,2 @@
 # Project-Landing-Page
+This is the Odin Project - Landing Page Project which is assigned at the end of the HTML, CSS and Flexbox section. I forgot to add/ commit to git throughout making it so it's just the final project.
